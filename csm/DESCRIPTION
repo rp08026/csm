@@ -1,0 +1,14 @@
+Package: csm
+Type: Package
+Title: Causal State Models - Models that are inferred and structually
+    equivalent to Hidden Markov Models.
+Version: 1.0
+Date: 2014-12-07
+Author: Rudolfs Petrovs
+Maintainer: Rudolfs Petrovs <rudolfs.petrovs@gmail.com>
+Description: This package provides tools for creation of Causal State Models -
+    equivalent of Hidden Markov Models which are inferred from data using CSSR
+    algorithm with a statistical test for (only chi-square is available at the
+    moment). There is "csm" class and methods for it and CSSR algorithm
+    implementation for inference of CSM from data.
+License: GPL (>= 2)
