@@ -20,4 +20,4 @@ Here is an extension that allows to determine the statistical significance level
 http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6193099&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6193099
 
 	By implementing all of these algorithms and techniques the framework will be able to find all the statistically significant patterns from discrete data time series with a minimal input and bias from a user.
-
+	
